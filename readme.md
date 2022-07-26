@@ -1,7 +1,7 @@
 ## Download
 This .pk3 file is ***ideally*** a community-managed [Hornmod](https://mb.srb2.org/addons/hornmod-championship-edition.2418/) expansion for Sonic Robo Blast 2 Kart.
 
-***You can download the expansion by clicking [here!](https://github.com/EikoBiko/SRB2K-Hornmod-Community-Expansion/blob/e509d189f1b27271385aa5e992d8edaf5bed1d84/KL_HornmodCommunityExpansion_v0.18.pk3)***
+***You can download the .pk3 by clicking [here!](https://github.com/EikoBiko/SRB2K-Hornmod-Community-Expansion/releases/latest)***
 ### Installation
 Simply drop this .pk3 file into your mods folder
 
