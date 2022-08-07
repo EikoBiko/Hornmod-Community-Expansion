@@ -44,3 +44,4 @@ Simply drop this .pk3 file into your mods folder
 - ~~"Mom, shut up!!!"~~ (ICTON / Bro)
 - "Nope, it's just Chuck Testa" (Ojai Valley Taxidermy TV Commercial)
 - ~~"They hit the pentagon!!!"~~ (Oney Plays / Zach Hadel)
+- "Pussy!" (The Lonely Island - "Like a Boss")
